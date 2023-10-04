@@ -2,4 +2,3 @@
 [Author](author.md)
 Карпов Данила Александрович
 bad
-fd
